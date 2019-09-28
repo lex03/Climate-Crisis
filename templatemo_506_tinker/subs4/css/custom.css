@@ -1,0 +1,45 @@
+body {
+	padding-top: 50px;
+	color: #cc1111;
+	}
+
+.not{
+	color: darkred;
+	font-size: 30px;
+}
+.ok{
+	color: green;
+	font-size: 30px;
+}	
+h1, h2, h3, h4, h5, h6 {
+	color: black;
+	}
+	
+.feature {
+	background-image: url("https://cdn.downtoearth.org.in/library/large/2019-04-22/0.13179200_1555918149_gettyimages-960189734.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+
+/*background-color: rgb(51, 20, 224);*/
+	color: rgb(238, 241, 24);
+	}
+	
+.article-intro {
+    margin-bottom: 25px;
+}
+
+.footer-blurb {
+    padding: 30px 0;
+    background-color: goldenrod;
+    color: black;
+}
+    
+.footer-blurb-item {
+    padding: 30px;
+    }
+ 
+.small-print {
+	background-color:red;
+	padding: 30px 0;
+}

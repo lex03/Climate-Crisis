@@ -1,0 +1,39 @@
+
+body
+ {  padding: 25px;
+  background-image: url("bg.jpg");
+  background-size: 100%;
+}
+h1{
+  font-size:40;
+  color:red;
+}
+h3{
+  font-size:30;
+  color:red;
+}
+.first-part
+{
+  font-size:60;
+  color:rgb(36, 233, 190);
+}
+div.gallery {
+  margin: 5px;
+  border: 2px solid #ccc;
+  float:right;
+  width: 380px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 50%;
+}
+
+div.desc {
+  padding: 0.2px;
+  text-align: center;
+}
